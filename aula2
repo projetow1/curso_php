@@ -1,0 +1,18 @@
+<?php
+  / * 
+    Comentário em várias linhas
+    Aula 2 - Projeto Programador - Projeto W
+    Curso Básico em PHP
+  * /
+  
+  //Variáveis Sintaxe
+  
+  //Toda Variável em PHP começa com '$'
+  //sem espaços
+  //pode conter letras maiúsculas e minúsculas, números, sublinhado, caractere _ (underline)
+  
+  $minhavariavel = 10;
+  echo $minhavariavel;
+  //resultado = 10
+  
+?>
