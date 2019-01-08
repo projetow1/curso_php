@@ -1,0 +1,12 @@
+<?php
+  //Comentário em uma linha
+  
+  /* 
+    Comentário em várias linhas
+    Aula 1 - Projeto Programmer - Projeto W
+    Curso Básico em PHP
+  */
+  
+  echo"Olá Mundo";
+  
+?>
